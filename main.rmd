@@ -1,0 +1,12 @@
+---
+title: "ゼロ知識証明のお本"
+author:	"tiz"
+header-includes:
+- \usepackage[whole]{bxcjkjatype}
+output:
+  pdf_document:
+    toc: true
+---
+
+# hello
+world
